@@ -7,18 +7,4 @@ gen
 /logs
 village-craft-server.tar.gz
 
-!/.github/
-!/.github/workflows/
-!/configs/
-!/internal/
-!/internal/db/
-!/internal/delivery/
-!/internal/models/
-!/internal/repository/
-!/internal/usecase/
-!/migrations/
-!/pkg/
-!/pkg/logger/
-!/pkg/utils/
-!/tests/
 
